@@ -1,0 +1,42 @@
+body {
+    box-sizing: border-box;
+    background-color: rgb(197, 197, 197);
+    padding: 0;
+    margin: 0;
+    font-family: 'Quantico', sans-serif;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.container {
+    background-color: #ffffff;
+    width: 60%;
+    text-align: center;
+
+}
+
+#start-button {
+    background-color: #9B4CEB;
+    color: #ffffff;
+}
+
+#start-button:hover {
+    background-color: #6F26EB;
+}
+
+.btn-group {
+    background-color: #9B4CEB;
+    color: #ffffff;
+}
+
+.btn-group:hover {
+   background-color: #6F26EB;
+}
+
+/* #myDiv {
+    display: none;
+} */
