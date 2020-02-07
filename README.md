@@ -1,6 +1,8 @@
 # Code-Quiz
 
  https://masonstafford.github.io/Code-Quiz/.
+ ![image](https://user-images.githubusercontent.com/46834613/74040320-7cbbf600-4991-11ea-9b57-8a73e27814d8.png)
+
 
 Objective: make a timed quiz on JavaScript fundamentals that can gauge the progress of the user by comparing previous high scores.
 
