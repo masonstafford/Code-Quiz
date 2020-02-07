@@ -1,5 +1,7 @@
 # Code-Quiz
 
+ https://masonstafford.github.io/Code-Quiz/.
+
 Objective: make a timed quiz on JavaScript fundamentals that can gauge the progress of the user by comparing previous high scores.
 
 This quiz game is using dynamic JS to make the experience for the user better and more enjoyable!
